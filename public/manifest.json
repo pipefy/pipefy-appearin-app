@@ -1,0 +1,12 @@
+{
+  "name": "appear.in",
+  "short_description": "Add a persinstent video chat to your Pipe using a button.",
+  "description": "This Pipefy App add a persistent video chat to your Pipe using a button.",
+  "icon": "https://cdn.glitch.com/e826a6eb-413f-4073-8b60-51381636ea8d%2Fappear.in-icon.png?1498512355267",
+  "author": "Pipefy, Inc.",
+  "init_url": "./",
+  "screenshots": ["https://cdn.glitch.com/e826a6eb-413f-4073-8b60-51381636ea8d%2Fweb%20-%206%20people%20-%20chat%20closed.png?1498512710097"],
+  "features": [
+    "pipe-buttons"
+  ]
+}
